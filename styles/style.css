@@ -152,3 +152,35 @@
     background-color: #4E47FF;
     color: #FFFFFF;
 }
+/* Footer_Area */
+.footer{
+    width: 1440px;
+    height: 428px;
+    margin: 0 auto;
+}
+.name-foot{
+    color: #4E47FF;
+    font-size: 60px;
+}
+footer div ul li{
+    list-style: none;
+    padding: 10px;
+}
+footer div ul li a{
+    text-decoration: none;
+    color: #8987A1;
+}
+.hdr{
+    text-align: center;
+}
+.lists{
+    display: flex;
+    justify-content: center;
+    font-weight: 401px;
+    height: 24px;
+}
+.text-foot{
+    text-align: center;
+    color: #8987A1;
+    font-weight: 531px;
+}
