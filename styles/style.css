@@ -82,7 +82,7 @@
     width: 403px;
     border-radius: 48px;
 }
-/* Prod */
+/* Productive Users Section */
 .container{
     width: 1140px;
     padding: 50px 80px;
@@ -137,7 +137,7 @@
     padding: 10px 16px;
     color: #FFFFFF;
     stroke: #D6DDED;
-    border: 0.1px #8987A1 solid ;
+    border: 0.1rem #8987A1 solid ;
     border-radius: 10px;
     width: 300px;
     font-size: 20px;
