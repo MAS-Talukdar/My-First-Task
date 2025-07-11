@@ -184,3 +184,44 @@ footer div ul li a{
     color: #8987A1;
     font-weight: 531px;
 }
+.clng:hover{
+    background-color: #f4d03f ;
+}
+.challange{
+    width: 1140px;
+    padding: 0 0;
+    margin: 0 auto;
+}
+.clng-heading{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.father{
+    display: flex;
+}
+.child{
+    padding: 24px 24px;
+    /* border: #4E47FF solid; */
+    border-radius: 14px;
+    background-color: #f2eded86;
+    margin: 10px;
+}
+.last{
+    display: flex;
+    align-items: center;
+}
+.im{
+    size: 20px;
+    width: 20px;
+    height: 20px;
+}
+.imm{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin: 20px;
+}
